@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T13:23:51Z",
+  "IdClaims": [
+    {
+      "Claim": "t:joesbrat67"
+    },
+    {
+      "Claim": "mdon:@joesbrat3067@mstdn.party"
+    },
+    {
+      "Claim": "post:joesbrat67"
+    },
+    {
+      "Claim": "spout:joesbrat67"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "541a6261514e1d6f60515252",
+    "Timestamp": "2023-04-07T13:31:46Z",
+    "Signature": "6f14e9dbfe42322d796f0382dfb8a505b2fe1937633134d288d3405b68cdd637552118d627258fcb5af161f12ad5fbd5ed64c70f86ee224b898c5c5f3d3cdca417513e3282bde12491109d0d3507242d1df9f6678d00fb39e2bbe672a359ad15925e8c57cc97c00f2147d0f40cae98c036e04289f607aacc1a418d56e6b47fea4fb592b8f10919e029609c27710f886877672c45543e4bc1af2a36566c357f4cb9493b36318d2e7971ab9959827e2afaaf9cd8574c368e54281f4f2dad31c7ba0c0bb73ab87eded9b874fe12b4aa37a3492a0a3c12665ef10e7d1d3ee8310620f9639d43335cb58fd4e5373277e20c49029ae79313daaf27c520c3e18a2ea70b"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "a9651e4dd2dc3286e1c92acfcf3e3456f760dcd03c7aef5d5582a70bd0e65937",
+  "ContentToHash": "v1|mdon:@joesbrat3067@mstdn.party,med:no-account,post:joesbrat67,spout:joesbrat67,ss:no-account,t:joesbrat67|2023-04-07T13:23:51Z"
+}
